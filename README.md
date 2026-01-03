@@ -3,7 +3,7 @@
 This is my first complete web project built entirely with **HTML5**. It’s a multi-page website designed for an online learning platform, focusing on semantic structure and user interaction.
 
 ## 🌐 Live Demo
-You can view the live website here:[Click here to view my Live Project]([https://fatitab-dev.github.io/html-project-complete/](https://fatitab-dev.github.io/My-complete-HTML-project/))
+You can view the live website here:[Click here to view my Live Project](https://fatitab-dev.github.io/html-project-complete/)
 
 ## 🛠️ Features
 * **Home Page**: Includes a structured course syllabus using HTML tables.
